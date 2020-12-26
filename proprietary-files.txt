@@ -7,6 +7,9 @@ vendor/etc/acdbdata/Hdmi_cal.acdb
 vendor/etc/acdbdata/Headset_cal.acdb
 vendor/etc/acdbdata/Speaker_cal.acdb
 
+# APN
+product/etc/apns-conf.xml
+
 # Camera
 vendor/lib/hw/camera.msm8937.so
 vendor/lib/libadvalgcore.so
